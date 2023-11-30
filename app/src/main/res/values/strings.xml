@@ -5,4 +5,10 @@
     <string name="enter">Войти</string>
     <string name="login">Логин</string>
     <string name="password">Пароль</string>
+    <string name="an_unexpected_error_has_occurred">Произошла непредвиденная ошибка</string>
+    <string name="retry">Retry</string>
+    <string name="error">Произошла непредвиденная ошибка</string>
+    <string name="update">Обновить</string>
+    <string name="productsExampleTitle">Толстовка серая</string>
+    <string name="productsExampleCategory">Толстовка</string>
 </resources>
